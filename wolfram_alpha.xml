@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>Wolfram|Alpha</ShortName>
+<Description>Wolfram|Alpha Suche</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64</Image>
+<Url type="text/html" method="GET" template="https://www.wolframalpha.com/input/?i={searchTerms}"/>
+</OpenSearchDescription>
+
